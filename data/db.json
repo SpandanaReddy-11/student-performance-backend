@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "85bfa976-b127-439a-bf31-67682326f0e0",
+      "name": "Admin",
+      "email": "admin@school.com",
+      "passwordHash": "$2a$10$CsHGhIhnWAsL27UDQSgwBu8S.pEahqyCYqzcFjJh9HKnKtPKvm0ii",
+      "role": "admin",
+      "studentId": null
+    }
+  ],
+  "students": []
+}
